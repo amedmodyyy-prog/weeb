@@ -1,5 +1,5 @@
 h1{
-    background-color: darkorange;
+    background-color: darkorange; border: 4px #000000 solid;
 }
 #big{
     font-size:50px;
@@ -8,5 +8,11 @@ h1{
     font-size: 30px;
 }
 #big{
-    color: darkorange;
+    color: darkorange; border: 3px #000000 solid;
+}
+#bigg{
+    font-size:50px;color: darkorange;
+}
+#nn{
+    font-size: 30px;color: maroon;
 }
